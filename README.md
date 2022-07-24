@@ -4,7 +4,6 @@ Quem sou eu?
 - ☀️ Carioca
 - 📚 Leitora eclética
 - 💻 Esudante em tempo integral 
-- 🎹 Me arrisco no teclado musical nas horas livres
 <br>
 <div align="left">
   <a href="https://github.com/stefanefalleiro">
